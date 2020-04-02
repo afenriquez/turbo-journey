@@ -1,2 +1,2 @@
 # turbo-journey
-This is my first repository
+Hello I am an Engineering Manager at a Plastics Extrusion plant
